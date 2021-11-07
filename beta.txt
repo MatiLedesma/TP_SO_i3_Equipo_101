@@ -1,0 +1,15 @@
+Ledesma Matias
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.100.167  netmask 255.255.255.0  broadcast 192.168.100.255
+        inet6 2803:9800:b016:80c2:8fe8:a0e1:46f8:a5ac  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::a1c9:8c10:25d9:8a30  prefixlen 64  scopeid 0x20<link>
+        inet6 2803:9800:b016:80c2:6ddf:279:5ba4:f550  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:60:e1:4d  txqueuelen 1000  (Ethernet)
+        RX packets 3175  bytes 1523729 (1.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2448  bytes 438333 (438.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Hora: 1:54 a.m
+
