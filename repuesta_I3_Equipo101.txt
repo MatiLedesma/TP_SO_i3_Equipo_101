@@ -1,3 +1,14 @@
 Zarate Taiel - ALFA
 Ledesma Matias - BETA
 Carazo Agustina - GAMMA
+
+
+BETA:
+1. El master queda unido con todos los cambios que se hicieron en las otras ramas.
+2. Si, beta pudo ver todos los cambios realizados.
+3. 
+git branch // para saber en que rama esta parado
+git branch  -m master // para posicionarse en la rama master
+git pull origin carazo // para hacer la unión del contenido de la rama master con la rama de carazo.
+GAMMA:
+
