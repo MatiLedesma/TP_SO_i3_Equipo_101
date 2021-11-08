@@ -25,4 +25,17 @@ enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 Hora: 2:02 a.m
+
+Zárate Taiel
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.65  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::f9a5:31b9:6c8c:51aa  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:68:40:2c  txqueuelen 1000  (Ethernet)
+        RX packets 35669  bytes 40716628 (40.7 MB)
+        RX errors 0  dropped 18  overruns 0  frame 0
+        TX packets 14477  bytes 3430631 (3.4 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Hora: 20:09 p.m
   
