@@ -1,5 +1,4 @@
 Ledesma Matias
-
 enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.100.167  netmask 255.255.255.0  broadcast 192.168.100.255
         inet6 2803:9800:b016:80c2:8fe8:a0e1:46f8:a5ac  prefixlen 64  scopeid 0x0<global>
@@ -10,11 +9,8 @@ enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 2448  bytes 438333 (438.3 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
-Hora: 1:54 a.m
-
+01:54:45
 Carazo Agustina
-
 enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
         inet6 fe80::3272:2b82:851c:8965  prefixlen 64  scopeid 0x20<link>
@@ -23,11 +19,8 @@ enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 6835  bytes 1287537 (1.2 MB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
-Hora: 2:02 a.m
-
+02:02:23
 Zárate Taiel
-
 enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.1.65  netmask 255.255.255.0  broadcast 192.168.1.255
         inet6 fe80::f9a5:31b9:6c8c:51aa  prefixlen 64  scopeid 0x20<link>
@@ -36,6 +29,5 @@ enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX errors 0  dropped 18  overruns 0  frame 0
         TX packets 14477  bytes 3430631 (3.4 MB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
-Hora: 20:09 p.m
+20:09:12
   

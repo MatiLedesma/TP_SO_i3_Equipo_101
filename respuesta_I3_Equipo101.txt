@@ -4,18 +4,25 @@ Carazo Agustina - GAMMA
 
 
 BETA:
-1. El master queda unido con todos los cambios que se hicieron en las otras ramas.
-2. Si, beta pudo ver todos los cambios realizados.
-3. 
+a. El master queda unido con todos los cambios que se hicieron en las otras ramas.
+b. Si, beta pudo ver todos los cambios realizados.
+c.  Comandos utilizados para el punto 5:
 git branch // para saber en que rama esta parado
 git branch  -m master // para posicionarse en la rama master
 git pull origin carazo // para hacer la unión del contenido de la rama master con la rama de carazo.
 GAMMA:
-1. No tanto la rama creada por BETA como la rama creada por GAMMA quedan con los datos desactualizados.
-2- No ocurriron problemas al realizar el merge.
-3- Comandos utilizados para el punto 7:
+d. No tanto la rama creada por BETA como la rama creada por GAMMA quedan con los datos desactualizados.
+e- No ocurriron problemas al realizar el merge.
+f- Comandos utilizados para el punto 7:
 git clone -b ledesma https://github.com/MatiLedesma/TP_SO_i3_Equipo_101 ledesma_clone
 cd ledesma_clone
-echo -e "Carazo Agustina\n" >> beta.txt
+echo "Carazo Agustina" >> beta.txt
+ifconfig enp0s3 >> beta.txt
+date +%T >> beta.txt
+ALFA:
+g.Comandos utilizados para el punto 8:
+git clone -b ledesma https://github.com/MatiLedesma/TP_SO_i3_Equipo_101 ledesma
+cd ledesma
+echo "Zárate Taiel" >> beta.txt
 ifconfig enp0s3 >> beta.txt
 date +%T >> beta.txt
